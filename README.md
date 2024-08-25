@@ -25,31 +25,31 @@ env.send_key("Enter")
 
 Terminal parsing (colorless):
 
-![Cybergod demo](propaganda/tmux_show_0.gif)
+![Cybergod demo](https://github.com/James4ever0/agi_computer_control/blob/master/propaganda/tmux_show_0.gif?v=1&type=image)
 
 Terminal parsing (colorful):
 
-![Cybergod demo](propaganda/tmux_show_1.gif)
+![Cybergod demo](https://github.com/James4ever0/agi_computer_control/blob/master/propaganda/tmux_show_1.gif?v=1&type=image)
 
 Terminal screenshot converted from HTML (cursor in red):
 
-![Vim screenshot](propaganda/vim_edit_tmux_screenshot.png)
+![Vim screenshot](https://github.com/James4ever0/agi_computer_control/blob/master/propaganda/vim_edit_tmux_screenshot.png?v=1&type=image)
 
 Terminal with dark theme and grayscale effects except for the cursor:
 
-![Cursor highlight](propaganda/grayscale_dark_tmux.png)
+![Cursor highlight](https://github.com/James4ever0/agi_computer_control/blob/master/propaganda/grayscale_dark_tmux.png?v=1&type=image)
 
 You can also have a block-styled cursor:
 
-![Block cursor](propaganda/block_cursor_terminal_screenshot.png)
+![Block cursor](https://github.com/James4ever0/agi_computer_control/blob/master/propaganda/block_cursor_terminal_screenshot.png?v=1&type=image)
 
 Change the cursor character to underline:
 
-![Underline cursor char](propaganda/custom_cursor_char.png)
+![Underline cursor char](https://github.com/James4ever0/agi_computer_control/blob/master/propaganda/custom_cursor_char.png?v=1&type=image)
 
 Override the cursor block style:
 
-![Custom block style](propaganda/custom_block_style.png)
+![Custom block style](https://github.com/James4ever0/agi_computer_control/blob/master/propaganda/custom_block_style.png?v=1&type=image)
 
 ## Usage
 
