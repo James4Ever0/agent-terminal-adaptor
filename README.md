@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/james4ever0/agent-terminal-adaptor/blob/main/assets/logo.jpg?v=1&type=image" alt="TermAdaptor logo"></div>
+<div align="center"><img src="https://github.com/james4ever0/agent-terminal-adaptor/blob/main/assets/termadaptor_logo.webp?v=1&type=image" alt="TermAdaptor logo"></div>
 
 <h1 align="center">TermAdaptor</h1>
 
