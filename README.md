@@ -92,6 +92,12 @@ A full mapping from conventional special keys to standard Tmux special keys can 
 
 You can read the test file for further integration.
 
+## FAQ
+
+### Is there any benchmark results?
+
+Benchmarking has not yet been done since this is just a library for terminal interaction and the actual terminal agent implementation is the most important factor in performance, which is on my TODO list.
+
 ## Star History
 
 <img src="https://api.star-history.com/svg?repos=james4ever0/agent-terminal-adaptor&Timeline" style="filter: invert(100%);"></img>
