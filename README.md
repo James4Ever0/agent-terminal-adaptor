@@ -94,7 +94,7 @@ You can read the test file for further integration.
 
 ## FAQ
 
-### Is there any benchmark results?
+### Is there any benchmark result?
 
 Benchmarking has not yet been done since this is just a library for terminal interaction and the actual terminal agent implementation is the most important factor in performance, which is on my TODO list.
 
